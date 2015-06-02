@@ -1,6 +1,6 @@
 # AliveFeedback
 
-For quick orientation in Alive, see [video walkthrough of basic features](https://youtu.be/wIvrchnMW8k) and [read documentation]() (under construction)
+For quick orientation in Alive, see [video walkthrough of basic features](https://youtu.be/wIvrchnMW8k) and read [Installation and Basic Usage](http://comealive.io/Docs)
 
 ## Issue and feature tracker for [Alive](http://comealive.io/)
 
