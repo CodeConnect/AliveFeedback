@@ -1,4 +1,7 @@
 # AliveFeedback
+
+For quick orientation in Alive, see [video walkthrough of basic features](https://youtu.be/wIvrchnMW8k) and [read documentation]() (under construction)
+
 ## Issue and feature tracker for [Alive](http://comealive.io/)
 
 This repository exists to submit 
