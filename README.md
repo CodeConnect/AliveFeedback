@@ -1,11 +1,12 @@
-# [Alive](http://comealive.io/)
+## Getting Started
 
+- [Alive - home page](http://comealive.io/)
 - [Docs] [Installation and Basic Usage](http://comealive.io/Docs/Basics)
 - [Docs] [Setting up Alive in Visual Studio 2013](http://comealive.io/Docs/VS2013)
 - [Video] [Video walkthrough of basic features](https://youtu.be/wIvrchnMW8k)
 - [Wiki] [Release history](https://github.com/CodeConnect/AliveFeedback/wiki)
 
-## [Issue and feature tracker for Alive](https://github.com/CodeConnect/AliveFeedback/issues)
+## [Issue and feature tracker](https://github.com/CodeConnect/AliveFeedback/issues) for Alive
 
 This repository exists to submit 
 - errors
