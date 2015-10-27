@@ -1,9 +1,9 @@
 ## Getting Started
 
 - [Alive - home page](http://comealive.io/)
-- [Docs] [Installation and Basic Usage](http://comealive.io/Docs/Basics)
-- [Docs] [Setting up Alive in Visual Studio 2013](http://comealive.io/Docs/VS2013), [.NET 4.6 download](http://www.microsoft.com/en-us/download/details.aspx?id=48130)
-- [Video] [Video walkthrough of basic features](https://youtu.be/wIvrchnMW8k)
+- [Docs] [Documentation](http://comealive.io/Docs/)
+- [Docs] [Setting up Alive in Visual Studio 2013](http://comealive.io/Docs/InstallationOnVS2013), [.NET 4.6 download](http://www.microsoft.com/en-us/download/details.aspx?id=48130)
+- [Video] [Short videos walking through basic features](https://www.youtube.com/playlist?list=PLaV5E-sv1yqRJIO31OboTR809sl1fFjUq)
 - [Wiki] [Release history](https://github.com/CodeConnect/AliveFeedback/wiki)
 
 ## [Issue and feature tracker](https://github.com/CodeConnect/AliveFeedback/issues) for Alive
